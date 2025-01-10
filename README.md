@@ -1,4 +1,5 @@
 Cafetería Nanacao - API REST y Tests con Jest y Supertest
+
 Este proyecto consiste en una API REST para gestionar los cafés de la Cafetería Nanacao. La API permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los cafés disponibles en la tienda. Además, se han creado pruebas automatizadas utilizando Jest y Supertest para verificar el correcto funcionamiento de las rutas y operaciones.
 
 Descripción
